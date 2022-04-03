@@ -63,11 +63,11 @@ Selanjutnya kita akan membuat layout sederhana berikut screenshotnya atau kalian
 ![Screenshot_24.png](Pic/Screenshot_24.png)<br>
 ## Jawaban
 1.Kalian bisa mengakses htmlnya dengan klik disamping [Click Here](lab4_layout/About.html)<br>
-Berikut adalah hasilnya<br>
+  Berikut adalah hasilnya<br>
 ![Screenshot_29.png](Pic/Screenshot_29.png)<br>
-Jadi disini kita buat navigasi Home htmlnya memanggil si About agar saat kita klik about di browser maka akan memunculkan about htmlnya<br>
+  Jadi disini kita buat navigasi Home htmlnya memanggil si About agar saat kita klik about di browser maka akan memunculkan about htmlnya<br>
 2.Setelah itu kita buat form dikontak kalian bisa mengakses htmlnya dengan klik disamping [Click Here](lab4_layout/Kontak.html)<br>
-Berikut adalah hasilnya<br>
+  Berikut adalah hasilnya<br>
 ![Screenshot_28.png](Pic/Screenshot_28.png)<br>
-Seperti diatas setelah kita buat htmlnya selanjutnya kita buat agar navigasi kontak dapat memanggil html kontak<br>
+  Seperti diatas setelah kita buat htmlnya selanjutnya kita buat agar navigasi kontak dapat memanggil html kontak<br>
 ### By  : Bangkit Akbar Anggara - 312010148 - TI.20.B.1
