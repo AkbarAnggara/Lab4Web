@@ -8,7 +8,7 @@ Berikut adalah tugas praktikum 4<br>
 ![Screenshot_23.png](Pic/Screenshot_23.png)<br>
 
 ## Membuat Box Element
-Kita buat dulu html Box Elementnya berikut screenshotnya atau kalian bisa mengaksesnya dengan klik 
+Kita buat dulu html Box Elementnya berikut screenshotnya atau kalian bisa mengaksesnya dengan klik disamping [Click Here](lab4_box.html)
   - Pertama - tama kita buat dulu Box ELement seperti dibawah ini<br>
 ![Screenshot_1.png](Pic/Screenshot_1.png)<br>
   - Maka hasilnya akan seperti dibawah ini<br>
@@ -19,7 +19,7 @@ Kita buat dulu html Box Elementnya berikut screenshotnya atau kalian bisa mengak
 ![Screenshot_4.png](Pic/Screenshot_4.png)<br>
 
 ## Membuat Layout Sederhana
-Selanjutnya kita akan membuat layout sederhana berikut screenshotnya atau kalian bisa mengaksesnya dengan klik disamping [Click Here Html](lab4_layout/Home.html) [Click Here CSS](lab4_layout/style.css)<br>
+Selanjutnya kita akan membuat layout sederhana berikut screenshotnya atau kalian bisa mengaksesnya dengan klik disamping [(Click Here Html)](lab4_layout/Home.html) [(Click Here CSS)](lab4_layout/style.css)<br>
   - Pertama - tama kita buat dulu awalannya seperti dibawah ini<br>
 ![Screenshot_5.png](Pic/Screenshot_5.png)<br>
   - Lalu kita tambahkan kode CSS seperti berikut, kalian bebas mengubah warna dan font sesuka kalian jika kalian mau<br>
