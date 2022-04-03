@@ -1,0 +1,49 @@
+<<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    
+</head>
+<body>
+    <div id="container">
+
+    <header>
+        <h1>Layout Sederhana</h1>
+    </header>
+        <nav>
+          <a href="About.html" class="active">Home</a>
+          <a href="artikel.html">Artikel</a>
+          <a href="about.html">About</a>
+          <a href="kontak.html">Kontak</a>
+        </nav>
+</html>
+<body>
+    <form action="contact.php" method="POST">
+        <fieldset>
+        <legend>Contact</legend>
+        <p>
+            <label>Name:</label>
+            <input type="text" name="name" placeholder="your name..." />
+        </p><br>
+        <p>
+            <label>Email:</label>
+            <input type="email" name="email" placeholder="your email..." />
+        </p><br>
+        <p>
+            <label>Subject</label>
+            <input type="text" name="subject" placeholder="subject..." />
+        </p><br>
+        <p>
+            <label>Massage</label>
+            <textarea cols="50" rows="10" class= "area" placeholder="massage..." ></textarea>
+        </p><br>
+        <p>
+            <input type="submit" name="submit" value="Send" style="color:blue;" 
+        ><br>
+        </fieldset>
+    </form>
+</body>
